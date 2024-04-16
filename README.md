@@ -1,6 +1,9 @@
 # budget
 Programme Javafx utilisation javafx-sdk-21.0.1 à installer
-Gestion d'un budget avec base PostgreSQL 15  et une base écrite avec pgAdmin4
+Gestion d'un budget avec base PostgreSQL 15 
+
+
+et une base écrite avec pgAdmin4
 public class DataAccessor {
 
 	static int nbLignes;
