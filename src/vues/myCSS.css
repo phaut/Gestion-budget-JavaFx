@@ -1,0 +1,27 @@
+.button{
+    -fx-background-color: #D4E6F1 ;
+    -fx-border-color: derive(#D4E6F1 , -30%);
+    -fx-border-width: 0.2px;
+    -fx-font-size: 17pt;
+    -fx-font-family: "Lato bold" "Calibri"
+}
+
+.button:hover{
+    -fx-background-color: derive(#2fd179, -30%);
+    -fx-font-size: 15pt;
+}
+
+.button:hover{
+    -fx-text-fill: whitesmoke;
+}
+
+.text-field{
+    -fx-background-color: #FCF3CF;
+}
+.text-field .referenceField{
+    -fx-background-color: #D6EAF8 ;
+}
+
+.text-field .soldeField{
+    -fx-background-color:  #FBEEE6 ;
+}

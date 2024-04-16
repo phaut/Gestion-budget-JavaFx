@@ -1,0 +1,61 @@
+
+
+
+
+.spinner .increment-arrow-button:hover,
+.spinner .decrement-arrow-button:hover {
+    /* interpolate color between yellow and red based on first color brightness */
+    -fx-body-color: ladder(#444, yellow 0%, red 100%);
+}
+
+.spinner > .text-field
+{
+    -fx-alignment: center;
+}
+
+.table-view .table-cell {
+  /* -fx-text-fill:blue;*/  
+    -fx-alignment: center;
+    -fx-font-weight: bold;
+}
+
+
+ .table-row-cell:odd:selected{
+    -fx-background-color:#E9D3ED;
+	
+   }
+
+.table-row-cell:even:selected{	
+	      
+	 -fx-background-color:#70E6E4;
+	-fx-highlight-fill:black;
+	
+}
+
+.table-row-cell:selected {
+    -fx-text-background-color: #FF5733;
+}
+
+.table-row-cell:selected .montant-cell {
+     -fx-text-background-color: initial; /* Réinitialiser la couleur à celle par défaut */
+}
+
+.table-row-cell:selected {
+     -fx-text-background-color: #FF5733;
+}
+
+.table-row-cell:selected .montant-cell {
+   /*  -fx-text-background-color: inherit;*/ /* Utiliser la couleur de texte héritée */
+}
+
+/* Appliquer un style à toutes les cellules de la TableView sauf celles de la colonne "montant" */
+.table-row-cell:selected:not(.montant-cell) {
+  /*   -fx-text-background-color: #FF5733;*/
+}
+
+
+.text-field {
+    -fx-background-radius: 5em; /* Ajustez le rayon selon vos préférences */
+}
+
+

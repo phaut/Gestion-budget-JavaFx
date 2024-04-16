@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+
+	<dépenses classe="P0">		
+		<nomcats classe="Autres dépenses"> 
+			<cat>Association Stendhal</cat>
+			<cat>Dépenses à catégoriser</cat>
+			<cat>Retraits</cat>
+			<cat>Virement</cat>
+		</nomcats>
+	</dépenses>
+
+	<dépenses classe="P1">		
+		<nomcats classe ="Frais automobile">
+			<cat>Assurance et taxes auto</cat>
+			<cat>Autoroute</cat>
+			<cat>Carburant</cat>
+			<cat>Entrteien véhicule</cat>
+			<cat>Stationnement</cat>
+		</nomcats>
+	</dépenses>
+	
+	<dépenses classe="P2">		
+		<nomcats classe ="Frais de vie">
+			<cat>Assurance Mutuelle</cat>
+			<cat>Frais alimentaire</cat>
+			<cat>Frais chien</cat>
+			<cat>Frais médicaux</cat>
+			<cat>Frais vestimentaires</cat>
+		</nomcats>
+	</dépenses>
+	
+	<dépenses classe="P3">		
+		<nomcats classe ="Frais divers">
+			<cat>Amazon Prime</cat>
+			<cat>Cadeaux</cat>
+			<cat>Coiffeur</cat>
+			<cat>Déplacements</cat>
+			<cat>Epargne</cat>
+			<cat>Fournitures</cat>
+			<cat>Frais bancaires</cat>
+			<cat>Prêt bancaire</cat>
+			<cat></cat>
+		</nomcats>		
+	</dépenses>
+	
+	<dépenses classe="P4">		
+		<nomcats classe ="Frais logement">
+			<cat>Ameublement/hifi</cat>
+			<cat>Assurance logement</cat>
+			<cat>Bricolage</cat>
+			<cat>Chauffage</cat>
+			<cat>Consommation eau</cat>
+			<cat>Electricité/Gaz</cat>
+			<cat>Entretien et services</cat>
+			<cat>Loyer</cat>
+		</nomcats>		
+	</dépenses>
+	
+	<dépenses classe="P5">		
+		<nomcats classe ="Impôts">
+			<cat>Impôts sur les revenus</cat>
+			<cat>Redevance</cat>
+			<cat>Taxe d'habitation</cat>
+			<cat>Taxes fonciéres</cat>
+		</nomcats>		
+	</dépenses>
+	
+	<dépenses classe="P6">		
+		<nomcats classe ="Loisirs">
+			<cat>Canal plus</cat>
+			<cat>Française des jeux</cat>
+			<cat>Informatique</cat>
+			<cat>Jardinerie</cat>
+			<cat>Loisirs</cat>
+			<cat>Musique</cat>
+			<cat>Sorties(Resto..Ciné..Théâtre..Spectacle..Concert)</cat>
+			<cat>Vacances</cat>
+			<cat></cat>
+			<cat></cat>
+		</nomcats>		
+	</dépenses>
+	
+	<dépenses classe="P7">		
+		<nomcats classe="Téléphonie">
+			<cat>Télécom/Internet</cat>
+			<cat>Téléphone fixe</cat>
+			<cat>Téléphone mobile</cat>
+			<cat></cat>
+		</nomcats>		
+	</dépenses>
+	<revenus classe="P8">		
+		<nomcats classe="Autres revenus">
+			<cat>Dépôts</cat>
+			<cat>Revenus à catégoriser</cat>
+			<cat></cat>
+			<cat></cat>
+		</nomcats>		
+	</revenus>
+	<revenus classe="P9">		
+		<nomcats classe="Remboursements">
+			<cat>Remboursements divers</cat>
+			<cat>Remboursements mutuelle</cat>
+			<cat>Remboursements sécurité sociale</cat>
+			<cat></cat>
+		</nomcats>		
+	</revenus>
+	<revenus classe="P10">		
+		<nomcats classe="Revenu">
+			<cat>Pensions</cat>
+			<cat>Primes</cat>
+			<cat>Revenus financiers</cat>
+			<cat>Salaires</cat>
+			<cat>Transfert</cat>
+		</nomcats>		
+	</revenus>
+	<transferts classe="P11">		
+		<nomcats classe="Tous Transferts">
+			<cat>Epargne[Transferts]</cat>
+			<cat>Transfert</cat>
+			<cat>Transfert Bousorama</cat>
+			<cat></cat>
+		</nomcats>		
+	</transferts>
+
+</categories>
